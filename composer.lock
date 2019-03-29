@@ -95,12 +95,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/jtuller/optikos.git",
-                "reference": "57cec1ffb78d548c5595828149c5151bf97e1114"
+                "reference": "f199d767f685f2e29dd318c0992b6a7cc260ed76"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/jtuller/optikos/zipball/57cec1ffb78d548c5595828149c5151bf97e1114",
-                "reference": "57cec1ffb78d548c5595828149c5151bf97e1114",
+                "url": "https://api.github.com/repos/jtuller/optikos/zipball/f199d767f685f2e29dd318c0992b6a7cc260ed76",
+                "reference": "f199d767f685f2e29dd318c0992b6a7cc260ed76",
                 "shasum": ""
             },
             "require": {
@@ -137,7 +137,7 @@
                 "orm",
                 "redbean"
             ],
-            "time": "2019-03-29 02:05:40"
+            "time": "2019-03-29 02:48:46"
         },
         {
             "name": "mikecao/flight",
