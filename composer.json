@@ -1,0 +1,10 @@
+{
+    "require": {
+        "jtuller/optikos": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "MyApp\\": "src/"
+        }
+    }
+}
